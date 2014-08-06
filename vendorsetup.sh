@@ -1,1 +1,2 @@
-add_lunch_combo cm_m7tmo-eng
+add_lunch_combo cmb_m7tmo-eng
+add_lunch_combo cmb_m7tmo-userdebug
